@@ -1,0 +1,16 @@
+[
+    {
+        "price" : 30000,
+        "fullname" : "Lada Priora"
+    },
+
+     {
+        "price" : 45000,
+        "fullname" : "Lada Kalina"
+    },
+
+     {
+        "price" : 70000,
+        "fullname" : "Lada Granta"
+    }
+]

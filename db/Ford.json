@@ -1,0 +1,16 @@
+[
+    {
+        "price" : 100000,
+        "fullname" : "Ford Fiesta"
+    },
+
+     {
+        "price" : 150000,
+        "fullname" : "Ford Focus"
+    },
+
+     {
+        "price" : 120000,
+        "fullname" : "Ford EcoSport"
+    }
+]

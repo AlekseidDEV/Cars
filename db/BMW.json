@@ -1,15 +1,17 @@
-
-     {
-        "price" : 100000,
+[
+    
+    {
+        "price" : 170000,
         "fullname" : "BMW X7"
-    }
+    },
 
      {
-        "price" : 195000,
+        "price" : 250000,
         "fullname" : "BMW i6"
     },
 
      {
-        "price" : 30000,
+        "price" : 300000,
         "fullname" : "BMW e36"
     }
+]
